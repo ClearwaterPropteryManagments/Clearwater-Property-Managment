@@ -1,0 +1,22 @@
+{
+  "properties": [
+    {
+      "title": "123 Main Street",
+      "beds": 3,
+      "baths": 2,
+      "price": "$1,650/mo",
+      "address": "123 Main St, Town, ST",
+      "image": "images/property1.jpg",
+      "applyLink": "YOUR_PAYMENT_LINK_HERE"
+    },
+    {
+      "title": "45 Oakridge Blvd",
+      "beds": 2,
+      "baths": 1,
+      "price": "$1,250/mo",
+      "address": "45 Oakridge Blvd, Town, ST",
+      "image": "images/property2.jpg",
+      "applyLink": "YOUR_PAYMENT_LINK_HERE"
+    }
+  ]
+} 
